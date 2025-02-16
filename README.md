@@ -30,7 +30,7 @@ AI-powered Godot editor enhancement using the Groq API
 <br/>
 
 ### [Ori (Agent)](https://github.com/m4yc3x/agent)
-Self-reflecting AI agent that can search the web. Check it out at [www.ori.wtf](https://ori.wtf)
+Self-reflecting AI agent that can search the web.
 <br/>
 
 ### [Gossip](https://github.com/m4yc3x/gossip)
