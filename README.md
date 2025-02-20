@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building secure and innovative web solutions. I'm the founder of [Stellar Web Services](https://stellarweb.services) and creator of various platforms including CrackMyApp and MyAllergies.info.
+I'm a passionate developer focused on building secure and innovative web solutions. I'm the founder of [Stellar Web Services](https://stellarweb.services) and creator of various platforms including CrackMyApp MyAllergies.info, and unheard.online.
 
 I am also a hobbyist musician and producer, check out my [YouTube](https://www.youtube.com/@beatsbymayce) for some of my work.
 
@@ -70,6 +70,7 @@ E2E encrypted communications network with WebRTC
 - **[Stellar Web Services](https://stellarweb.services)** - Professional enterprise solutions for interactive web applications
 - **[CrackMy.App](https://crackmy.app)** - Reverse engineering challenges and competitive community
 - **[MyAllergies.info](https://myallergies.info)** - Free digital allergy cards for managing and sharing allergies
+- **[unheard.online](https://unheard.online)** - International record label focusing on growth
 
 ## 📊 GitHub Stats
 
