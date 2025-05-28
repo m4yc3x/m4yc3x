@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A269F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+m4yc3x+👋;Full-Stack+Developer+and+Security+Enthusiast+🔐;Building+innovative+solutions+for+the+web+🌐" alt="Typing SVG" />
-</div>
-
-<br/>
-
 ## 🚀 About Me
 
 I'm a passionate developer focused on building secure and innovative web solutions. I'm the founder of [Stellar Web Services](https://stellarweb.services) and creator of various platforms including CrackMyApp MyAllergies.info, and unheard.online.
