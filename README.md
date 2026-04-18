@@ -63,6 +63,7 @@ E2E encrypted communications network with WebRTC
 ## 🌐 Services & Platforms
 
 - **[Stellar Web Services](https://stellarweb.services)** - Professional enterprise solutions for interactive web applications
+- **[ori.click](https://ori.click)** - Custom link pages and URL shortening for free
 - **[CrackMy.App](https://crackmy.app)** - Reverse engineering challenges and competitive community
 - **[MyAllergies.info](https://myallergies.info)** - Free digital allergy cards for managing and sharing allergies
 - **[unheard.online](https://unheard.online)** - International record label focusing on growth
