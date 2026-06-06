@@ -69,9 +69,10 @@ E2E encrypted communications network with WebRTC
 - **[unheard.online](https://unheard.online)** - International record label focusing on growth
 
 ## 📊 GitHub Stats
+These stats are not indicative of my activity. I use my own privately hosted Forgejo git solution since GitHub uptime is an oxymoron.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4yc3x&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4yc3x&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4yc3x&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
