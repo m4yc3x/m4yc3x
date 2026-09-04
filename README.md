@@ -46,20 +46,6 @@ I am also a hobbyist musician and producer, check out my [YouTube](https://www.y
 
 </div>
 
-## 🏆 Featured Projects
-
-### [GodotBuddy](https://github.com/m4yc3x/godotbuddy)
-AI-powered Godot editor enhancement using the Groq API
-<br/>
-
-### [Ori (Agent)](https://github.com/m4yc3x/agent)
-Self-reflecting AI agent that can search the web.
-<br/>
-
-### [Gossip](https://github.com/m4yc3x/gossip)
-E2E encrypted communications network with WebRTC
-<br/>
-
 ## 🌐 Services & Platforms
 
 - **[Stellar Web Services](https://stellarweb.services)** - Professional enterprise solutions for interactive web applications
